@@ -1,0 +1,59 @@
+:root {
+  --theme--color: rgb(64,158,255);
+}
+.el-header {
+  box-shadow: 0 0 2rem 0 rgba(41, 48, 66, 0.1);
+  margin-left: 0px;
+  line-height: 60px;
+  position: relative;
+  min-width: 400px;
+  clear: both;
+  .iconfont:hover{
+    color: var(--theme--color);
+  }
+}
+.el-upload-dragger{
+  border: 4px dashed var(--el-border-color);
+  transition: all .5s;
+}
+.el-upload-dragger:hover{
+  transform: scale(1.05);
+}
+
+.el-main{
+  .el-image{
+    border-radius: 10px;
+    transition: all .4s;
+  }
+  .el-image:hover{
+    transform: scale(1.02);
+  }
+}
+
+#sub-title {
+  margin-top: 20px;
+  position: relative;
+  font-weight: 1000;
+  cursor: pointer;
+}
+#sub-title::after {
+  content: "";
+  width: 0px;
+  height: 3px;
+  background: var(--theme--color);
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  right: 50%;
+  transition: all 0.5s;
+}
+a{
+ text-decoration: none;
+}
+.iconfont{
+  cursor: pointer;
+}
+
+.el-drawer__body{
+  overflow: hidden;
+}
