@@ -36,3 +36,24 @@ npm install
 npm run serve
 ```
 注：请在启动后端服务前将后端文件中passwrd.py中的密码改为本地root密码
+
+## 部分效果展示图
+ <p align="center">
+    <img src="../images/db1.jpg" align="middle" width = "800" />
+  </p>
+  
+  <p align="center">
+    <img src="../images/db2.jpg" align="middle" width = "800" />
+  </p>
+  
+  <p align="center">
+    <img src="../images/db3.jpg" align="middle" width = "800" />
+  </p>
+  
+  <p align="center">
+    <img src="../images/db4.jpg" align="middle" width = "800" />
+  </p>
+  
+  <p align="center">
+    <img src="../images/db5.jpg" align="middle" width = "800" />
+  </p>
