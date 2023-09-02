@@ -39,21 +39,21 @@ npm run serve
 
 ## 部分效果展示图
  <p align="center">
-    <img src="../images/db1.jpg" align="middle" width = "800" />
+    <img src="./images/db1.jpg" align="middle" width = "800" />
   </p>
   
   <p align="center">
-    <img src="../images/db2.jpg" align="middle" width = "800" />
+    <img src="./images/db2.jpg" align="middle" width = "800" />
   </p>
   
   <p align="center">
-    <img src="../images/db3.jpg" align="middle" width = "800" />
+    <img src="./images/db3.jpg" align="middle" width = "800" />
   </p>
   
   <p align="center">
-    <img src="../images/db4.jpg" align="middle" width = "800" />
+    <img src="./images/db4.jpg" align="middle" width = "800" />
   </p>
   
   <p align="center">
-    <img src="../images/db5.jpg" align="middle" width = "800" />
+    <img src="./images/db5.jpg" align="middle" width = "800" />
   </p>
